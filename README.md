@@ -1,1 +1,1 @@
-[![Jared's GitHub stats](./profile/stats.svg)
+![Jared's GitHub stats](./profile/stats.svg)
